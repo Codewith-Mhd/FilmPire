@@ -1,0 +1,13 @@
+.movie-card {
+  width: 100%;
+  padding: 10px;
+  margin: 10px auto;
+  border-radius: 5px;
+  box-shadow: 0px 0px 0px rgba(0, 0, 0, 0.1);
+  background: #ddd;
+}
+
+p.movie-plot {
+  text-align: center;
+  justify-content: left;
+}
